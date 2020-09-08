@@ -30,9 +30,9 @@ Syntax highlighted code block
 
 Soltution to my HTML, CSS and Javascript course assignments.
 
-[Module2-solution](/module2-solution/index.html).
+[Module2-solution](/Module2-solution/index.html).
 
-[Module3-solution](/module3-solution/index.html).
+[Module3-solution](/Module3-solution/index.html).
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
