@@ -29,7 +29,9 @@ Syntax highlighted code block
 ### My Work
 
 Soltution to my HTML, CSS and Javascript course assignments.
+
 [Module2-solution](/module2-solution/index.html).
+
 [Module3-solution](/module3-solution/index.html).
 
 
