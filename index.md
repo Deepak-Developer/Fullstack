@@ -26,9 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-**My Work**
-[Module2-solution](module2-solution/index.html).
-[Module3-solution](module3-solution/index.html).
+### My Work
+
+Soltution to my HTML, CSS and Javascript course assignments.
+[Module2-solution](/module2-solution/index.html).
+[Module3-solution](/module3-solution/index.html).
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
